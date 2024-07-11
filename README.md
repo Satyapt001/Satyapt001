@@ -1,6 +1,7 @@
 - 👋 Hi, I’m satypriya Tripathy
 - 👀 I’m interested in creating websites.
 - 🌱 I’m currently learning Full stack Web-Development
+- 🌐 website:[click](https://satyapt001.github.io/Sp_t/)
 - 📫 we can connect on  [LinkedIN](https://www.linkedin.com/in/satyapt/)
 
 - ⚡ Ranked as JUNIOR UNDER OFFICER(JUO) at National cadet corps(NCC) (5)OD BN India
