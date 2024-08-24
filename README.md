@@ -1,3 +1,4 @@
+🎓 Undergraduate BCA Student | Frontend Developer | Web Dev Enthusiast
 - 👋 Hi, I’m satypriya Tripathy
 - 👀 I’m interested in creating websites.
 - 🌱 I’m currently learning Full stack Web-Development
